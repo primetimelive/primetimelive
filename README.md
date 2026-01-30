@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello World! 👋
+
+### Cytometry in R - Starter Questions
+
+Location: Vancouver, British Columbia, Canada
+
+My Favorite Flurophore: APC-Cy7
+
+Previous Coding Experience: Javascript
+
+What I Hope to Get From This Course: Learning more about R and how I can apply it to my listmode files
 
 <!--
 **primetimelive/primetimelive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
